@@ -6,7 +6,7 @@
 - **Methodology**: Perform data cleaning, preprocessing, and exploratory data analysis (EDA) to derive insights and trends using visualizations and statistical summaries.
 - **Output**: Provide actionable insights and quantitative measures to understand the debt collection landscape, company dominance, and socio-economic implications of legal debt collection practices.
 
-- - **Tools & Libraries**: Python, Pandas, Matplotlib, Seaborn for data analysis and visualization.
+- **Tools & Libraries**: Python, Pandas, Matplotlib, Seaborn for data analysis and visualization.
 - **Techniques**:
   - Data cleaning and preprocessing to handle missing values and standardize formats.
   - Exploratory Data Analysis (EDA) using statistical summaries and visualizations to identify trends and patterns.
